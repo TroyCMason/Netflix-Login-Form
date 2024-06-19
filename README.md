@@ -23,7 +23,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/netflix-login-clone.git
+git clone https://github.com/TroyCMason/Netflix-Login-Form-login-clone.git
 Navigate into the project directory:
 
 bash
