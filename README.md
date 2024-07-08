@@ -14,10 +14,6 @@ HTML: Used for structuring the login form and content.
 
 CSS: Used for styling the page, including layout, fonts, colors, and responsiveness.
 
-Preview
-
-Getting Started
-To run this project locally, follow these steps:
 
 
 
