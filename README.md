@@ -19,23 +19,10 @@ Preview
 Getting Started
 To run this project locally, follow these steps:
 
-Clone this repository:
 
-bash
-Copy code
-git clone https://github.com/TroyCMason/Netflix-Login-Form-login-clone.git
-Navigate into the project directory:
-
-bash
-Copy code
-cd netflix-login-clone
-Open index.html in your web browser.
-
-Contributing
-This project is open for contributions. If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
 
 Acknowledgments
-This project was inspired by the Netflix login page.
+This project was inspired by the Netflix.
 
 Thanks to Netflix for their design inspiration.
 
